@@ -5,6 +5,10 @@ Ricardo Avendaño Casas
 
 To execute the project the following steps must be performed
 
+Important prerequisites
+	1. Java 8
+	2. Docker
+
 1. Used Frameworks:
 	1. Maven
 	2. JUnit 4
